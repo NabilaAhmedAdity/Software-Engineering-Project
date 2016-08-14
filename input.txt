@@ -1,2 +1,6 @@
 BDTaxCalculator
 DevelopmentFeeCalculator
+
+
+; Depending on the strategy, change between these two lines. For example now my strategy is BDTaxCalculator. If I change my
+; strategy to DevelopmentFeeCalculator, put DevelopmentFeeCalculator in the first line and BDTaxCalculator in the second.
